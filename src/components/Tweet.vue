@@ -27,7 +27,7 @@
                         </v-row>
                         </p>
                     </div>
-                    <v-btn variant="outlined" rounded="xl">Promote</v-btn>
+                    <x-button>Promote</x-button>
                 </v-col>
             </v-row>
             <template v-slot:error>

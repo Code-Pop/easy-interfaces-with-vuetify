@@ -8,7 +8,7 @@
                 </v-col>
 
                 <v-col cols="auto" class="mt-6" align-self="center">
-                    <v-btn variant="outlined" rounded="xl">Edit Profile</v-btn>
+                    <x-button>Edit Profile</x-button>
                 </v-col>
             </v-row>
 
